@@ -7,6 +7,8 @@ url: https://arihu1008.github.io/docs-jekyll
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
+collections_dir: collections
+
 collections:
   how-to:
     # permalink: "/:collection/:name"
